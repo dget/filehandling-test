@@ -1,0 +1,2 @@
+127.0.0.1 - - [15/Dec/2010:01:24:22 -0500] "POST /testform HTTP/1.1" 200 - "http://localhost/test.html" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.224 Safari/534.10"
+127.0.0.1 - - [15/Dec/2010:01:24:22 -0500] "GET /favicon.ico HTTP/1.1" 404 3 - "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.224 Safari/534.10"
